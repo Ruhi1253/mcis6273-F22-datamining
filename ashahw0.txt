@@ -1,0 +1,41 @@
+1. 3 things that i learnd from this podcast are
+
+* I was really mesmerized by medical services and how Phillip monitor the people's work and
+utilize clinical records to track and archive his work. It's this truly information driven area.
+His work or research specify the similar topics such as examining the design and usage of computer 
+technology. Mostly specified on how we are using current technologies with certain aspects of design
+to use for particular task. Yet, the cognitive science is a mixture of human computer interaction and
+subfield is a mixture of computer and social science. It is essential that monitoring between programming,
+observing, social science and more anthropological skills which goes back to the industrial engineering
+days of the math and science and building new things satisfaction and understanding people too.
+One, the product frameworks are really complicated and managed, and you have patient gamble there too. 
+Thus, I turned and took a gander at another very information driven space, information examination.
+
+* An extraordinary aspect regarding Jupyter is they have the note pad itself, sort of its front end.
+In any case, I consider some the really enduring effect from Jupyter may be only the norms that they
+set, about how are we going to send messages to and fro to a bit, what's the journal design, and the 
+quite certain JSON structure. Thus, as it were, they're practically similar to a guidelines setter 
+like World Wide Web Consortium, HTML or different things. This is exactly how logical registering 
+or information examination ought to be recorded and shared.
+
+* I consider one the other fascinating things that we took a gander at was, demonstration of the 
+Python environments, we said OK, what are the bundles that individuals are bringing in? Also, simply
+tracking down by far most, around 90% or so of these journals are bringing in outside bundles. Things
+like Pandas, NumPy, Matplotlib, were bringing in 66% or a greater amount of them. In this way, simply
+the information science framework that is being given is a truly center part. It's not simply having
+the scratch pad like Jupyter. It's having the Python environment to have the option to make it happen.
+
+2. After listening to the podcast I'm really facinated about notebooks and how it works and the 
+repesentation in JSON format, Jupyter Notebook is platform-independent as well as language-independent.
+Another reason is that Jupyter can be processed by any several languages, and can be converted to any
+file formats such as Markdown, HTML, PDF.
+
+* We can see both the code and the results at the same time.
+* It's easy to use other people's work as a starting point.
+* It's very easy to host server side, which is useful for security purposes.
+
+3. After listening to the pocast. I have really started showing intrest in jupyter notebook. the way it 
+is more flexible and User-friendly.
+ Notebook environments like Jupyter notebook are going to increasingly become the core infrastructure
+ for data analysis, both in industry, and academia, and journalism that have just proven so valuable as
+ their iterative programming environment and for presenting results.
